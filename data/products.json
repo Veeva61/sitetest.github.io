@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "name": "Геймерский ПК Beast X",
+    "price": 185000,
+    "image": "img/beastx.jpg",
+    "description": "Intel i9, RTX 4080, 64ГБ RAM, 2ТБ SSD"
+  },
+  {
+    "id": 2,
+    "name": "Бюджетный ПК Office Lite",
+    "price": 45000,
+    "image": "img/officelite.jpg",
+    "description": "Intel i3, 8ГБ RAM, 256ГБ SSD, офисные задачи"
+  },
+  {
+    "id": 3,
+    "name": "Универсальный ПК Workstation Pro",
+    "price": 95000,
+    "image": "img/workstation.jpg",
+    "description": "AMD Ryzen 7, 32ГБ RAM, SSD+HDD, без видеокарты"
+  }
+]
